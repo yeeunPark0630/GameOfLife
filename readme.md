@@ -12,15 +12,15 @@ User can choose shapes among beehive, blinker, block, glider, toad, and customiz
 
 # Requirements
 
-IntelliJ IDEA is required for building the game.\
+IntelliJ IDEA is required for building the game.
 
 # Screenshots
 
 This is a screen when user runs the game. \
-![start view][ImageSources/readme1]
+![start view][ImageSources/readme1.png]
 
-Whenever user clicks the cell, the game is started. At the bottom-left, it shows x-y coordinate of user selected, and at the bottom-right, it shows the number of frame changed(which is basically seconds after starting game). \ 
-![game][ImageSources/readme2]
+Whenever user clicks the cell, the game is started. At the bottom-left, it shows x-y coordinate of user selected, and at the bottom-right, it shows the number of frame changed(which is basically seconds after starting game). 
+![game][ImageSources/readme2.png]
 
 # Technologies
 * Java
@@ -38,9 +38,9 @@ $ git clone
 
 # How to use?
 
-Choose a shape that you want to put in the grid at the status bar, and click the cell at the grid. \
-First five shapes will be changed immediately after you click the grid; however, the customize button causes pause the game until you click the other buttons at the status bar. This means the game would restart after choosing other buttons and selecting the grid.  \
-At the bottom, there are two features: at the bottom-left, it shows x-y coordinate and name of shape that user selected, and at the bottom-right, it shows the number of frame changed(which is basically seconds after starting game). \
+Choose a shape that you want to put in the grid at the status bar, and click the cell at the grid. \\
+First five shapes will be changed immediately after you click the grid; however, the customize button causes pause the game until you click the other buttons at the status bar. This means the game would restart after choosing other buttons and selecting the grid. \\
+At the bottom, there are two features: at the bottom-left, it shows x-y coordinate and name of shape that user selected, and at the bottom-right, it shows the number of frame changed(which is basically seconds after starting game). \\
 Observation the modifying of grid and the features.
 
 
