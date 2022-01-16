@@ -29,7 +29,7 @@ Whenever user clicks the cell, the game is started. At the bottom-left, it shows
 
 # Installation
 
-$ git clone
+$ git clone https://github.com/yeeunPark0630/GameOfLife
 
 1. Open Intellij IDEA, and open workspace of GameOfLife.
 2. Add new Gradle configuration.
